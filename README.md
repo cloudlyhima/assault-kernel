@@ -1,2 +1,2 @@
 # assault-kernel
-ETU Assault Cube cheat for linux le
+assault-kernel - easy to install (ETI) cheat, based on libmem
